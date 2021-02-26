@@ -1,0 +1,11 @@
+{
+  "modid": "RestartRun",
+  "name": "RestartRun",
+  "author_list": ["danreeves"],
+  "description": "Adds a restart button to the end game screen so you can run the same seed again.",
+  "credits": "danreeves",
+  "version": "0.0.0",
+  "sts_version": "12-20-2018",
+  "mts_version": "3.6.3",
+  "update_json": ""
+}

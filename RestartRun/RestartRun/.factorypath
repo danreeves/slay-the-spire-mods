@@ -1,0 +1,5 @@
+<factorypath>
+    <factorypathentry kind="EXTJAR" id="C:\dev\slay-the-spire-mods\RestartRun\RestartRun\..\lib\desktop-1.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="C:\dev\slay-the-spire-mods\RestartRun\RestartRun\..\lib\ModTheSpire.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="C:\dev\slay-the-spire-mods\RestartRun\RestartRun\..\lib\BaseMod.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
